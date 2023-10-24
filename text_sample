@@ -1,0 +1,24 @@
+
+NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=pk_test_YWN0aXZlLXN0b3JrLTUwLmNsZXJrLmFjY291bnRzLmRldiQ
+CLERK_SECRET_KEY=sk_test_Ty3FsGYS8vzB1e0vORSLRUVj31rUOmS2mINrmmPjuv
+
+NEXT_PUBLIC_CLERK_SIGN_IN_URL=/sign-in
+NEXT_PUBLIC_CLERK_SIGN_UP_URL=/sign-up
+NEXT_PUBLIC_CLERK_AFTER_SIGN_IN_URL=/
+NEXT_PUBLIC_CLERK_AFTER_SIGN_UP_URL=/
+
+# This was inserted by `prisma init`:
+# Environment variables declared in this file are automatically made available to Prisma.
+# See the documentation for more detail: https://pris.ly/d/prisma-schema#accessing-environment-variables-from-the-schema
+
+# Prisma supports the native connection string format for PostgreSQL, MySQL, SQLite, SQL Server, MongoDB and CockroachDB.
+# See the documentation for all the connection string options: https://pris.ly/d/connection-strings
+
+DATABASE_URL="mysql://admin:admin@localhost:3306/database"
+
+
+UPLOADTHING_SECRET=sk_live_a48514638aae5f55f68d021ff9b9e6393772b9c1457f1503b60e7daaf3b43e5e
+UPLOADTHING_APP_ID=oujfrfmunc
+
+
+.
